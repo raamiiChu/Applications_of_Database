@@ -1,5 +1,5 @@
 # Import `backup.sql`
-    `mysql -u <user_name> -p <database_name> < backup.sql`
+    mysql -u <user_name> -p <database_name> < backup.sql
 
 # Run Code
 
@@ -18,7 +18,7 @@
     - `DB_HOST`: **localhost** in default
     - `DB_PORT`: **3306** in default 
 
-5. Start the code in terminal: ```nodemon app.js```
+5. Start the code in the terminal: ```nodemon app.js```
 
 6. Install **Thunder Client** in VS Code  
     p.s. You can use **Postman** if you want.
@@ -35,8 +35,8 @@
     3. wait until the terminal stops scrolling
     4. set URL as `localhost:3000/generate/products`, `localhost:3000/generate/orders` respectively, then follow step 2 ~ 3
 
-9. Stop the code in terminal: ```ctrl + c```
+9. Stop the code in the terminal: ```ctrl + c```
 
-10. Start exploring your database in MySQL server
+10. Start exploring your database on MySQL server
 
     ![image](https://github.com/raamiiChu/Applications_of_Database/assets/87169493/f6d9949e-00d0-4ce2-8d21-bd6d200111f1)
