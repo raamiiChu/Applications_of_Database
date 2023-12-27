@@ -1,3 +1,7 @@
+# Guide
+- 如果只想單純匯入資料庫，遵照 **Import backup.sql** 的步驟  
+- 如果想批量生成新的資料，遵照 **Run Code** 的步驟  
+
 # Import `backup.sql`
 1. 下載 `backup.sql`
  
