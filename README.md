@@ -19,6 +19,8 @@
 
    ![image](https://github.com/raamiiChu/Applications_of_Database/assets/87169493/3e3fcc0a-a55f-4c29-a8f3-06380b341e50)
 
+6. 開始使用資料庫
+   
    ![image](https://github.com/raamiiChu/Applications_of_Database/assets/87169493/f6d9949e-00d0-4ce2-8d21-bd6d200111f1)
 
 
