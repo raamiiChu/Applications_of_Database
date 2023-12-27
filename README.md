@@ -6,10 +6,15 @@
    
 3. 開啟終端機，切換路徑到 `backup.sql` 所在路徑
  
-4. 在終端機輸入以下指令
-    mysql -u <user_name> -p <database_name> < backup.sql
+4. 在終端機輸入以下指令  
+    `mysql -u <user_name> -p <database_name> < backup.sql`
    - username: 默認是 root 或 admin  
    - database_name: 你剛剛建立的資料庫名稱
+
+5. 執行完輸入密碼後，資料庫即建立成功
+
+   ![image](https://github.com/raamiiChu/Applications_of_Database/assets/87169493/3e3fcc0a-a55f-4c29-a8f3-06380b341e50)
+
 
 # Run Code
 
