@@ -1,5 +1,15 @@
 # Import `backup.sql`
+1. 下載 `backup.sql`
+ 
+2. 在自己的 MySQL 建立新的資料庫  
+    `CREATE DATABASE <database_name>;`
+   
+3. 開啟終端機，切換路徑到 `backup.sql` 所在路徑
+ 
+4. 在終端機輸入以下指令
     mysql -u <user_name> -p <database_name> < backup.sql
+   - username: 默認是 root 或 admin  
+   - database_name: 你剛剛建立的資料庫名稱
 
 # Run Code
 
