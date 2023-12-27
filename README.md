@@ -1,3 +1,8 @@
+# Import `backup.sql`
+    `mysql -u <user_name> -p <database_name> < backup.sql`
+
+# Run Code
+
 1. Install packages: ```npm install```
 
 2. Start MySQL server  
