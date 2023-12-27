@@ -15,9 +15,11 @@
    - username: 默認是 root 或 admin  
    - database_name: 你剛剛建立的資料庫名稱
 
-5. 執行完輸入密碼後，資料庫即建立成功
+5. 輸入密碼後，資料庫即建立成功
 
    ![image](https://github.com/raamiiChu/Applications_of_Database/assets/87169493/3e3fcc0a-a55f-4c29-a8f3-06380b341e50)
+
+   ![image](https://github.com/raamiiChu/Applications_of_Database/assets/87169493/f6d9949e-00d0-4ce2-8d21-bd6d200111f1)
 
 
 # Run Code
