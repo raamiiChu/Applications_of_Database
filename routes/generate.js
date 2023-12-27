@@ -26,7 +26,7 @@ const saltRounds = 10;
 const numOfUsers = 1000;
 
 // product
-const numOfProducts = 1500;
+const numOfProducts = 2000;
 const maximumNumOfImages = 5;
 const maximumNumOfVariants = 5;
 const rateOfGiveaway = 0.4;
@@ -34,7 +34,7 @@ const maximumStock = 250;
 const maximumPrice = 25000;
 
 // order
-const numOfOrders = 2500;
+const numOfOrders = 5000;
 const maximumVariantInOrder = 5;
 const minimumFee = 5;
 const maximumFee = 150;
